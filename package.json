@@ -1,0 +1,20 @@
+{
+  "name": "helloyou",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Botmarks/helloyou.git"
+  },
+  "author": "andy250",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Botmarks/helloyou/issues"
+  },
+  "homepage": "https://github.com/Botmarks/helloyou#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.13.4"
+  }
+}
